@@ -1,0 +1,27 @@
+{
+  "name": "es6-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6thSence/es6-pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6thSence/es6-pro/issues"
+  },
+  "homepage": "https://github.com/6thSence/es6-pro#readme"
+}
