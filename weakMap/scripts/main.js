@@ -9,8 +9,8 @@ let weakMap = new WeakMap([
     [animals[1], 2],
     [animals[2], 3]]);
 
-console.log( weakMap.get(animals[0]) ); // 1
-console.log( weakMap ); // 1
+console.log(weakMap.get(animals[0])); // 1
+console.log(weakMap);
 
 animals.splice(0, 1); // tiger больше не находится в массиве
 
