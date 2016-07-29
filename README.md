@@ -19,6 +19,6 @@ npm i
 // Next. Go to the directory with name what you want to use. For example, 'modules'
 cd modules
 webpack
-// Open index.html and see a result in concole
+// Open index.html in this directory and see the result in browser's concole
 ```
 
