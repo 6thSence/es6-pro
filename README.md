@@ -3,7 +3,7 @@
 There are example of pro part ES6.
 
 * Module
-* Set, Map //todo
+* Set, Map
 * WeakSet, WeakMap //todo
 * Iterators //todo
 * Generators //todo
