@@ -5,7 +5,7 @@ There are example of pro part ES6.
 * Module
 * Set, Map
 * WeakSet, WeakMap
-* Iterators //todo
+* Iterators
 * Generators //todo
 * Promise //todo
 * Proxy //todo
